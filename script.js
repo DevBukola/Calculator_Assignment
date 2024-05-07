@@ -4,9 +4,9 @@ function appendNumber(input) {
     output.value += input;
 }
 
-function appendOperator(input) {
-    output.value += input;
-}
+// function appendOperator(input) {
+//     output.value += input;
+// }
 
 function clearOutput() {
     output.value = '';
